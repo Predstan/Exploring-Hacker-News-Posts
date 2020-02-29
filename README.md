@@ -1,4 +1,1 @@
-Sample Project
-----------------
-
-This is a sample project to demonstrate git.  All files except this one are blank.
+This Project explores the Hacker's News Website started by Y Combinator Startup, where submitted user's story are commented and rated. This project will leverage on comparing ASK HN ; post to show hacker's news community a product, project or somethhing interesting and the ASK HN; post to ask hacher's community a specifuc question. They will be compared to know which post receives more comments and if post created at a particular time receives more comments on average
